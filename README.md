@@ -9,5 +9,5 @@ My environment
 ```
     git clone <here>
     export PATH=${PATH}:/usr/local/go/bin/:/home/u/src/golang/bin/
-    godep build -a 
+    godep go build -a 
 ```
