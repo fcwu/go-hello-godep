@@ -1,0 +1,11 @@
+{
+	"ImportPath": "qnap.dorowu.com/gitlab/dorowu/go-hello",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.6-2-g2cea0f0",
+			"Rev": "2cea0f0d141f56fae06df5b813ec4119d1c8ccbd"
+		}
+	]
+}
